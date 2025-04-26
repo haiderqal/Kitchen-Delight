@@ -50,7 +50,7 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 
-[]!logoform\web102fa.gif
+![](web102fa.gif)
 
 GIF created with LICEcap
 
